@@ -1,4 +1,4 @@
-package garage;
+package task2.garage2.garage;
 
 public class Employee {
     private String fullName;

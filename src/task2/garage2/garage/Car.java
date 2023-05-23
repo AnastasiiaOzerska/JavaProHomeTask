@@ -1,4 +1,4 @@
-package garage;
+package task2.garage2.garage;
 
 public class Car {
     private void StartElectricity(){
