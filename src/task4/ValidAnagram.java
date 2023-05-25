@@ -11,20 +11,19 @@ public class ValidAnagram {
         char[] a2 = string2.toCharArray();
         Arrays.sort(a1);
         Arrays.sort(a2);
-        return Arrays.equals(a1,a2);
+        return Arrays.equals(a1, a2);
     }
 
     public static class Main {
         public static void main(String[] args) {
-             String firstWord = "string";
-             String secondWord = "gnirts";
+            String firstWord = "string";
+            String secondWord = "gnirts";
             ValidAnagram comparator = new ValidAnagram();
-            if (comparator.isAnagramSort(firstWord,secondWord)== true ){
+            if (comparator.isAnagramSort(firstWord, secondWord) == true) {
                 System.out.println(firstWord + " is anagram " + secondWord);
 
-            }
-            else {
-                System.out.println(firstWord + " is not anagram "+ secondWord);
+            } else {
+                System.out.println(firstWord + " is not anagram " + secondWord);
             }
         }
     }
