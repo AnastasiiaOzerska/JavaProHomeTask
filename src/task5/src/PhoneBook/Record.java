@@ -1,4 +1,4 @@
-package task5.src.phoneBook;
+package task5.src.PhoneBook;
 
 public class Record {
     private String name;
