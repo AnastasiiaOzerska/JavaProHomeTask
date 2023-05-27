@@ -1,4 +1,4 @@
-package coffe_order;
+package task7.coffe_order;
 
 public class Main {
     public static void main(String[] args) {

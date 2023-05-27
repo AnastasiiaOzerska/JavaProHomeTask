@@ -1,4 +1,4 @@
-package coffe_order;
+package task7.coffe_order;
 
 import java.util.LinkedList;
 import java.util.Queue;

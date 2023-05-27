@@ -1,4 +1,4 @@
-package task5.src.PhoneBook;
+package task5.PhoneBook;
 
 import java.util.ArrayList;
 import java.util.List;

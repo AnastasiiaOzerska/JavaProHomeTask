@@ -1,4 +1,4 @@
-package task5.src.fourth;
+package task5.fourth;
 
 import java.util.ArrayList;
 import java.util.Arrays;

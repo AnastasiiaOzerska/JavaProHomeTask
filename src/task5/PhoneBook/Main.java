@@ -1,4 +1,4 @@
-package task5.src.PhoneBook;
+package task5.PhoneBook;
 
 public class Main {
     public static void main(String[] args) {

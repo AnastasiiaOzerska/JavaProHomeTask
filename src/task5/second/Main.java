@@ -1,4 +1,4 @@
-package task5.src.second;
+package task5.second;
 
 import java.util.ArrayList;
 
