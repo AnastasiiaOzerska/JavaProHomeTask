@@ -1,4 +1,4 @@
-package task8.src;
+package task8;
 
 public class FileData implements Comparable<FileData> {
 

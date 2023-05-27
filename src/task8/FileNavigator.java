@@ -1,4 +1,4 @@
-package task8.src;
+package task8;
 
 import java.util.*;
 
